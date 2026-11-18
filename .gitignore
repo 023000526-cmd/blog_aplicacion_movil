@@ -1,0 +1,17 @@
+
+# Credenciales privadas
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Archivos temporales
+*.log
+*.swp
+.DS_Store
+Thumbs.db
